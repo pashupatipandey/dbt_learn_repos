@@ -1,0 +1,1 @@
+Select 'Hello from VS Code' AS message;
